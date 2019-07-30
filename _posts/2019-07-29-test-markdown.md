@@ -16,7 +16,7 @@ Para poner titulos o subtitulos, se utiliza el numeral (#) Entre más numerales 
 
 ## Esto es un subtítulo.
 
-La creación de tablas es un poco más intuitiva, para realizar espacios horizontalmente, basta con separar las casillas que quiero con el simbolo "|" y para realizar la separación vertical, basta con dar enter y pasar a la siguiente linea, veamos un ejemplo:
+La creación de tablas es un poco más intuitiva, para realizar espacios horizontalmente, basta con separar las casillas que quiero con el simbolo ` |` y para realizar la separación vertical, basta con dar enter y pasar a la siguiente linea, veamos un ejemplo:
 
 
 | Nombre | Edad | Altura |
@@ -33,13 +33,13 @@ También se pueden insertar imágenes, solo necesitamos un link. La estructura e
 ![nombre de la imagen](link)
 ~~~
 
-![F1Vettel](https://e0.365dm.com/19/07/768x432/skysports-charles-leclerc-f1_4729577.jpg?20190727114805)
+![F1Vettel](https://cdn.newsapi.com.au/image/v1/4491b635d7fabb87059e9978a41dd196?width=320&height=240)
 
-También puede ser centrada, basta agregar el código > {: .center-block :}
+También puede ser centrada, basta agregar el código `{: .center-block :}`
 
-![F1Vettel](https://e0.365dm.com/19/07/768x432/skysports-charles-leclerc-f1_4729577.jpg?20190727114805){: .center-block :}
+![F1Vettel](https://cdn.newsapi.com.au/image/v1/4491b635d7fabb87059e9978a41dd196?width=320&height=240){: .center-block :}
 
-Ahora, para mostrar códigos se debe agregar > ~~~ < al inicio y al final del código
+Ahora, para mostrar códigos se debe agregar ` ~~~` al inicio y al final del código
 
 ~~~
 var foo = function(x) {
@@ -57,7 +57,8 @@ var foo = function(x) {
 foo(3)
 ```
 
-Ahora, para que muestre el número de lineas en el código, se utiliza en vez de `~~~ ` al inicio y al final, se usa ` {% highlight javascript linenos %}` al comienzo, y ` {% endhighlight %}` al final.
+Ahora, para que muestre el número de lineas en el código, se utiliza en vez de `~~~ ` al inicio y al final, se usa
+`{% highlight javascript linenos %}` al comienzo, y `{% endhighlight %}` al final.
 
 {% highlight javascript linenos %}
 var foo = function(x) {
