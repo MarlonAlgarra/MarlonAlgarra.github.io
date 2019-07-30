@@ -58,7 +58,7 @@ foo(3)
 ```
 
 Ahora, para que muestre el número de lineas en el código, se utiliza en vez de `~~~ ` al inicio y al final, se usa
-`{% highlight javascript linenos %}` al comienzo, y `{% endhighlight %}` al final.
+`% highlight javascript linenos %` al comienzo, y `% endhighlight %` al final, ambos códigos entre corchetes.
 
 {% highlight javascript linenos %}
 var foo = function(x) {
