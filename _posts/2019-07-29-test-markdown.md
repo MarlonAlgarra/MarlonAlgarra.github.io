@@ -16,7 +16,7 @@ Para poner titulos o subtitulos, se utiliza el numeral (#) Entre más numerales 
 
 ## Esto es un subtítulo.
 
-La creación de tablas es un poco más intuitiva, para realizar espacios horizontalmente, basta con separar las casillas que quiero con el simbolo ` |` y para realizar la separación vertical, basta con dar enter y pasar a la siguiente linea, veamos un ejemplo:
+La creación de tablas es un poco más intuitiva, para realizar espacios horizontalmente, basta con separar las casillas que quiero con el simbolo `|` y para realizar la separación vertical, basta con dar enter y pasar a la siguiente linea, veamos un ejemplo:
 
 
 | Nombre | Edad | Altura |
