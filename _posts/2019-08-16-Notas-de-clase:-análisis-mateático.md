@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notas de clase Análisis Matemático I
+title: Notas de clase: Análisis Matemático I
 subtitle: Curso Universidad Distrital
 bigimg: /img/path.jpg
 tags: [Cursos, Notas de clase]
