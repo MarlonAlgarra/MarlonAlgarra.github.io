@@ -25,7 +25,7 @@ MathJax.Hub.Queue(function() {
 </script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_HTML-full"></script>
 
-El análisis matemático es la rama de las matemáticas que se encarga de teorizar el cálculo. Por ello, trata temas como los límites y teorías relacionadas, además de diferenciabilidad, integración, series, medida, entre otros. En estas notas, el temario únicamente se encargará de tratar la parte real $$ax^2+bx+c=0$$ del estudio.
+El análisis matemático es la rama de las matemáticas que se encarga de teorizar el cálculo. Por ello, trata temas como los límites y teorías relacionadas, además de diferenciabilidad, integración, series, medida, entre otros. En estas notas, el temario únicamente se encargará de tratar la parte real ($$\mathbb{R}$$) del estudio.
 
 En cuanto vaya avanzando el curso, iré actualizando este post, con las notas y el temario.
 	
