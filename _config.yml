@@ -21,7 +21,7 @@ description: It's time.
 navbar-links:
   Sobre mi: "aboutme"
   Proyectos:
-    - Machine Learning: "https://github.com/MarlonAlgarra"
+    - Notas de clase: "https://marlonalgarra.github.io/tags/#Notas%20de%20clase"
     - Carrera: "https://udmath.github.io"
   Página Semillero: "https://semilleromac.github.io"
 
