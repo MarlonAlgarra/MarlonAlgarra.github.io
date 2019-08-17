@@ -6,7 +6,7 @@ bigimg: /img/path.jpg
 tags: [Cursos, Notas de clase]
 ---
 
-El análisis matemático es la rama de las matemáticas que se encarga de teorizar el cálculo. Por ello, trata temas como los límites y teorías relacionadas, además de diferenciabilidad, integración, series, medida, entre otros. En estas notas, el temario únicamente se encargará de tratar la parte real del estudio.
+El análisis matemático es la rama de las matemáticas que se encarga de teorizar el cálculo. Por ello, trata temas como los límites y teorías relacionadas, además de diferenciabilidad, integración, series, medida, entre otros. En estas notas, el temario únicamente se encargará de tratar la parte real $$\mathbb{R}$$ del estudio.
 
 En cuanto vaya avanzando el curso, iré actualizando este post, con las notas y el temario.
 	
