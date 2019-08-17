@@ -1,8 +1,9 @@
 ---
 layout: post
-title: To be
-subtitle: ... or not to be?
-tags: [books, shakespeare, test]
+title: Notas de clase de Teoría de Grupos
+subtitle: Curso Universidad Distrital
+bigimg: /img/path.jpg
+tags: [Cursos, Notas de clase]
 ---
 
 To be, or not to be--that is the question:
