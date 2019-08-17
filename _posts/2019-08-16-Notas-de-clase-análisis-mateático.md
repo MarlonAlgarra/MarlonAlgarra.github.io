@@ -11,7 +11,7 @@ El análisis matemático es la rama de las matemáticas que se encarga de teoriz
 En cuanto vaya avanzando el curso, iré actualizando este post, con las notas y el temario.
 	
 1. Construcción de los números reales
-   * [Definición de cuerpo, cuerpo ordenado y cuerpo ordenado completo.](/notas/a)
+   * [Definición de cuerpo, cuerpo ordenado y cuerpo ordenado completo.](https://marlonalgarra.github.io/notas/a/)
    * Definición de los números reales.
 
 
