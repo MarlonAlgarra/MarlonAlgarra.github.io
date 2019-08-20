@@ -27,7 +27,7 @@ Un cuerpo es un conjunto de objetos F (de objetos de cualquier especie) junto co
 
 Sean $$a,b$$ y $$c$$ Elementos de $$F$$:
 
-1. $$(a+b)+c=a+(b+c)$$
+1.$$(a+b)+c=a+(b+c)$$
 2. Existe un elemento $$0$$ de $$F$$ tal que:
-    * $$a+0=a$$
+    *$$a+0=a$$
     * Para todo $$a$$, con $$a\neq 0$$
