@@ -29,5 +29,6 @@ Sean $$a,b$$ y $$c$$ Elementos de $$F$$:
 
 1.$$(a+b)+c=a+(b+c)$$
 2. Existe un elemento $$0$$ de $$F$$ tal que:
-    *$$a+0=a$$
-    * Para todo $$a$$, con $$a\neq 0$$
+    * .$$a+0=a$$
+    * Para todo $$a$$, con $$a\neq 0$$ existe algún elemento $$b$$ de $$F$$ tal que $$a+b=0$$
+3.     
