@@ -32,3 +32,16 @@ Sean $$a,b$$ y $$c$$ Elementos de $$F$$:
     * .$$a+0=a$$
     * Para todo $$a$$, con $$a\neq 0$$ existe algún elemento $$b$$ de $$F$$ tal que $$a+b=0$$
 3. $$a+b=b+a$$   
+
+$$\begin{enumerate}
+\item Hola mundo
+\item Concepto de preámbulo
+\item Preámbulo para escribir caracteres en español
+\item Escritura de espacios, párrafos y saltos de línea
+\item Creación de secciones
+\item Introducción de comentarios
+\item Escritura correcta de la palabra \LaTeX
+\item Concepto de entorno
+\item Creación de listas enumeradas
+\end{enumerate}$$
+
