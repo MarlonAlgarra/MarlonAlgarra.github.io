@@ -23,7 +23,7 @@ MathJax.Hub.Queue(function() {
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_HTML-full"></script>
 
 
-No hay una definición acordada por los profesionales en el campo, por lo tanto existen unas descripciones que se acercan bastante bien a lo que es el Machine learning (ML). Una de ellas, dada por Arthut Samuel es: "El campo de estudio que le brinda a las computadoras la habilidad de aprender sin ser explícitamente programada". Est descripción, a grosso modo, es bastante acertada, pero antigua. 
+No hay una definición acordada por los profesionales en el campo, por lo tanto existen unas descripciones que se acercan bastante bien a lo que es el Machine learning (ML). Una de ellas, dada por Arthut Samuel es: "El campo de estudio que le brinda a las computadoras la habilidad de aprender sin ser explícitamente programada". Esta descripción, a grosso modo, es bastante acertada, pero antigua. 
 
 Una definición más reciente es dada por Tom Mitchell: "Un programa de computador se dice que aprende de una experiencia $E$ con respecto a alguna clase de tarea $T$ con un rendimiento medido $P$ ."Podemos ver que esta definición es más formal que la anterior, pues contiene en ella las principales caracteristicas de estudio del ML, que son experiencia, tarea y rendimiento. 
 
