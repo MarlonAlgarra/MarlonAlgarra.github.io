@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Cuerpo
-tags: [Análisis]
+title: ¿Qué es Machine Learning?
+tags: [Machine Learning]
 ---
 <style TYPE="text/css">
 code.has-jax {font: inherit; font-size: 100%; background: inherit; border: inherit;}
