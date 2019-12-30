@@ -39,7 +39,7 @@ También puede ser centrada, basta agregar el código `{: .center-block :}`
 
 ![F1Vettel](https://cdn.newsapi.com.au/image/v1/4491b635d7fabb87059e9978a41dd196?width=320&height=240){: .center-block :}
 
-Ahora, para mostrar códigos se debe agregar ` ~~~` al inicio y al final del código
+Ahora, para mostrar códigos se debe agregar  ~~~ al inicio y al final del código
 
 ~~~
 var foo = function(x) {
@@ -72,21 +72,21 @@ Se pueden añadir cápsulas de notificación, de advertencia y de error también
 
 ### Notification
 
-Se utiliza el comando ` {: .box-note}` y en la linea de abajo, el mensaje que se quiere indicar.
+Se utiliza el comando -{: .box-note}- y en la linea de abajo, el mensaje que se quiere indicar.
 
 {: .box-note}
 **Nota:** Esta es una cápsula de notificación.
 
 ### Warning
 
-Se utiliza el comando ` {: .box-warning}` y en la linea de abajo, el mensaje que se quiere indicar.
+Se utiliza el comando -{: .box-warning}- y en la linea de abajo, el mensaje que se quiere indicar.
 
 {: .box-warning}
 **Advertencia:** Esta es una cápsula de emergencia.
 
 ### Error
 
-Se utiliza el comando ` {: .box-error}` y en la linea de abajo, el mensaje que se quiere indicar.
+Se utiliza el comando -{: .box-error}- y en la linea de abajo, el mensaje que se quiere indicar.
 
 {: .box-error}
 **Error:** Esta es una cápsula de error.
