@@ -22,8 +22,10 @@ En orden para adquirir estos conocimientos, el nivel recomendado sería cursos d
 
 {: .box-note}
 **Algebra Lineal:** [Curso de MIT](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D&index=1)
+
 {: .box-note}
 **Probabilidad:** [Curso de MIT](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+
 {: .box-note}
 **Estadística:** [Curso de MIT](https://www.youtube.com/watch?v=VPZD_aij8H0&list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
 
