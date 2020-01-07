@@ -26,6 +26,7 @@ En orden para adquirir estos conocimientos, el nivel recomendado sería cursos d
 **Probabilidad:** [Curso de MIT](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
 {: .box-note}
 **Estadística:** [Curso de MIT](https://www.youtube.com/watch?v=VPZD_aij8H0&list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
+
 {: .box-note}
 **Calculo multivariado:** [Curso de MIT](https://www.youtube.com/watch?v=PxCxlsl_YwY&list=PL4C4C8A7D06566F38)
 
@@ -33,7 +34,8 @@ En orden para adquirir estos conocimientos, el nivel recomendado sería cursos d
 
 <p style='text-align: justify;'>
   
-fsaldjkñsfdlñjkfsdañljkfsdañljkfsadñljkfasljñkafsdñljksadñljksfadlñjksfadñljkdfsañljksadfñljkafsdñljkafsdñljkadsfñljkdfasñljkfsad
+fsaldjkñsfdlñjkfsda ñljkfsdañljkfsadñljkfa sljñkafsdñljksadñljksfa lñjksfadñljkdfsañljksadfñljkafs
+dñljkafsdñljkadsfñljkdf asñljkfsad
 
 </p>
 
