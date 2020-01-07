@@ -29,3 +29,12 @@ En orden para adquirir estos conocimientos, el nivel recomendado sería cursos d
 {: .box-note}
 **Calculo multivariado:** [Curso de MIT](https://www.youtube.com/watch?v=PxCxlsl_YwY&list=PL4C4C8A7D06566F38)
 
+## Habilidades en programación
+
+<p style='text-align: justify;'>
+  
+fsaldjkñsfdlñjkfsdañljkfsdañljkfsadñljkfasljñkafsdñljksadñljksfadlñjksfadñljkdfsañljksadfñljkafsdñljkafsdñljkadsfñljkdfasñljkfsad
+
+</p>
+
+
