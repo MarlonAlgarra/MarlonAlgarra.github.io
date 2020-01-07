@@ -2,7 +2,8 @@
 layout: post
 title: Herramientas de un científico de datos
 ---
-
+<p style='text-align: justify;'>
+  
 Un científico de datos es una persona cuyos conocimientos son (y deben ser) muy variados. En este campo, cada vez es más larga la lista de conocimientos que adquieren y su trabajo les demandan, pues los retos a los que se enfrentan día a día, necesitan más conocimiento y habilidades para ser resueltos.
 
 Pero ¿Qué habilidades debe tener una persona para ser un científico de datos?
@@ -20,3 +21,5 @@ En orden para adquirir estos conocimientos, el nivel recomendado sería cursos d
 **Probabilidad:** [Curso de MIT](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
 **Estadística:** [Curso de MIT](https://www.youtube.com/watch?v=VPZD_aij8H0&list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
 **Calculo multivariado:** [Curso de MIT](https://www.youtube.com/watch?v=PxCxlsl_YwY&list=PL4C4C8A7D06566F38)
+
+</p>
