@@ -19,6 +19,7 @@ Toda la teoría detrás del machine learning, tiene soportes en estas cuatro ár
 <p style='text-align: justify;'>
 En orden para adquirir estos conocimientos, el nivel recomendado sería cursos de nivel universitario. Siempre es posible ver estos cursos online para aprender o refrescar la memoría.
 </p>
+
 {: .box-note}
 **Algebra Lineal:** [Curso de MIT](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D&index=1)
 
