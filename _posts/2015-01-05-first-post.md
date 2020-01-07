@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: raspost
 title: First post!
 image: /img/hello_world.jpeg
 ---
