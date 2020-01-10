@@ -16,4 +16,4 @@ Sueño con poder combinar y compartir mis interéses y lograr compartirlo a aque
 
 - January 2: I just quit the Advent of Code 2019...for now. It was driving me crazy, but at least I could beat my own star score, compared with the 2018 challenge. I hope I'll post a entry with my experience.
 
--January 4: I start to watch "How I Met Your Mother", it looks like a pretty funny show.
+- January 4: I start to watch "How I Met Your Mother", it looks like a pretty funny show.
