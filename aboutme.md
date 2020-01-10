@@ -1,16 +1,19 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Sobre mi
+subtitle: Un breve resumen
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Mi nombre es Marlon Algarra, actualmente soy un estudiante de matemática pura con interéses en:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Data Science y desarrollo de software
+- Radio
+- Videojuegos
 
-What else do you need?
+Sueño con poder combinar y compartir mis interéses y lograr compartirlo a aquellos interesados, así que, este es mi pequeño lugar donde puedo hacer realidad una parte de mi sueño! 
 
-### my history
+### Updates: 2020.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- January 2: I just quit the Advent of Code 2019...for now. It was driving me crazy, but at least I could beat my own star score, compared with the 2018 challenge. I hope I'll post a entry with my experience.
+
+-January 4: I start to watch "How I Met Your Mother", it looks like a pretty funny show.
