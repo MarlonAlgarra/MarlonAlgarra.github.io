@@ -48,4 +48,4 @@ que esta tarea esta asociada al conteo. Por ejemplo, dada la foto de una persona
 que aparecen en ella.
 </p>
 
-![supervisedlearning](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwia_q_MqJfnAhVBq1kKHYZiAnoQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.fcodelabs.com%2F2018%2F12%2F13%2FMachine-Learning-Intro%2F&psig=AOvVaw2-IIYMLEODlYP6rzjDz8Up&ust=1579786259556360){: .center-block :}
+![supervisedlearning](https://miro.medium.com/max/4568/1*HVFwSGCwvNk8uD9XBMGhgw.png){: .center-block :}
