@@ -8,9 +8,9 @@ tags: [Cursos, Notas de clase]
 
 Curso sobre Machine learning, temas:
 	
-1. Semana 1
+1. Introducción
    * [¿Qué es Machine learning?](https://marlonalgarra.github.io/notas/a/)
    * [Entrenamiento supervisado](https://marlonalgarra.github.io/notas/SupervisedLearning/)
-   * Entrenamiento no supervisado
+   * [Entrenamiento no supervisado](https://marlonalgarra.github.io/notas/UnupervisedLearning/)
 
 
