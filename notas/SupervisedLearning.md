@@ -32,18 +32,20 @@ Veamos pues a que se refiere el entrenamiento supervisado:
 En este tipo de entrenamiento (supervised learning), el conjunto $E$, también denominado conjunto de entrenamiento o (training set) consiste en un conjunto de elementos
 etiquetados. Esto es, un conjunto con ejemplos de entrenamiento, lo cual se puede pensar como pares, donde una entrada o input, tiene su correspondiente salida, u output.
 Entonces, el algoritmo de ML, se asimilará a una función, donde los elementos del dominio serían el subconjunto de inputs, y los elementos del codominio serían el subconjunto
-de outputs. Así, construida una función que se acomode a estos parametros, al ingresar un nuevo input al algoritmo, este encontraría un output pertinente con base al entrenamiento
+de outputs. Así, construida una función que se acomode a estos parámetros, al ingresar un nuevo input al algoritmo, este encontraría un output pertinente con base al entrenamiento
 dado por las características del training set.
 </p>
 
 <p style='text-align: justify;'>
 Los problemas de entrenamiento supervisado también se dividen en dos tipos de tareas: clasificación y regresión. La tarea de clasificación se refiere a que en el training set
-los outputs serán un subconjuntos de clases finitas, entonces para cada input, el algoritmo lo asociará a una de estas clases, por ejemplo, dada una imagen decir qué objeto aparece
+los outputs serán un subconjunto de clases finitas, entonces para cada input, el algoritmo lo asociará a una de estas clases, por ejemplo, dada una imagen decir qué objeto aparece
 o dada una imagen de un tumor, decir si es maligno o no.
 </p>
 
 <p style='text-align: justify;'>
-Por otro lado, la tarea de regresión indica que el conjunto de outputs, es un conjunto continuo(se puede decir directamente que el conjunto de numeros reales). Así pues, podemos ver
+Por otro lado, la tarea de regresión indica que el conjunto de outputs, es un conjunto continuo(se puede decir directamente que el conjunto de números reales). Así pues, podemos ver
 que esta tarea esta asociada al conteo. Por ejemplo, dada la foto de una persona, decir cuantos años tiene, o a partir  de una imagen de una muestra biológica, contar el número de bacterias
 que aparecen en ella.
 </p>
+
+![supervisedlearning](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwia_q_MqJfnAhVBq1kKHYZiAnoQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.fcodelabs.com%2F2018%2F12%2F13%2FMachine-Learning-Intro%2F&psig=AOvVaw2-IIYMLEODlYP6rzjDz8Up&ust=1579786259556360){: .center-block :}
