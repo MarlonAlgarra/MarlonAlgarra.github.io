@@ -27,7 +27,9 @@ En el tipo de entrenamiento no supervisado (unsupervised learning) el tipo de tr
 </p>
 
 <p style='text-align: justify;'>
-En este entrenamiento, también es utilizada la técnica de non-clustering, que está relacionado con el famoso [problema de la fiesta de coctel](https://en.wikipedia.org/wiki/Cocktail_party_effect) que posee las mismas bases que el clustering, pero se diferencia de este porque este método modifica los datos
+En este entrenamiento, también es utilizada la técnica de non-clustering, que está relacionado con el famoso
+[problema de la fiesta de coctel](https://en.wikipedia.org/wiki/Cocktail_party_effect) 
+que posee las mismas bases que el clustering, pero se diferencia de este porque este método modifica los datos
 del training set, y los separa en grupos, mientras que el clustering unicamente los separa, pero no los modifíca.
 </p>
-[clustering](https://miro.medium.com/max/2636/1*iOPVU49imNwtZGT9dSP3JQ.jpeg)
+![clustering](https://miro.medium.com/max/2636/1*iOPVU49imNwtZGT9dSP3JQ.jpeg)
