@@ -10,7 +10,7 @@ Curso sobre Machine learning, temas:
 	
 1. Semana 1
    * [¿Qué es Machine learning?](https://marlonalgarra.github.io/notas/a/)
-   * Entrenamiento supervisado
+   * [Entrenamiento supervisado](https://marlonalgarra.github.io/notas/SupervisedLearning/)
    * Entrenamiento no supervisado
 
 
